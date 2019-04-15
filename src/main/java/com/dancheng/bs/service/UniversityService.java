@@ -1,7 +1,7 @@
 package com.dancheng.bs.service;
 
 import com.dancheng.bs.model.UniversityModel;
-import com.sun.tools.javac.util.List;
+import java.util.List;
 
 public interface UniversityService {
 
