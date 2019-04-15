@@ -1,8 +1,9 @@
-package com.dancheng.bs.dao;
+package com.dancheng.bs.university.dao;
 
-import com.dancheng.bs.model.UniversityModel;
-import com.sun.tools.javac.util.List;
+import com.dancheng.bs.university.model.UniversityModel;
 import org.springframework.stereotype.Repository;
+
+import java.util.List;
 
 @Repository(value = "universityDao")
 public interface UniversityDao {

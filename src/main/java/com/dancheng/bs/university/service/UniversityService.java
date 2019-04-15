@@ -1,6 +1,7 @@
-package com.dancheng.bs.service;
+package com.dancheng.bs.university.service;
 
-import com.dancheng.bs.model.UniversityModel;
+import com.dancheng.bs.university.model.UniversityModel;
+
 import java.util.List;
 
 public interface UniversityService {
